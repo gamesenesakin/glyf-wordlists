@@ -59,7 +59,6 @@ boom
 boss
 boxe
 buca
-buco
 buio
 cade
 calo
@@ -280,11 +279,9 @@ moto
 mura
 muri
 muro
-muso
 muta
 muto
 nani
-nano
 naso
 nata
 nate
@@ -339,7 +336,6 @@ papa
 papi
 pari
 peli
-pelo
 pena
 pene
 pepe
@@ -464,7 +460,6 @@ topo
 tori
 toro
 tubi
-tubo
 tuoi
 tuta
 uomo

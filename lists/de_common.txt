@@ -156,7 +156,6 @@ feld
 fell
 fels
 fern
-fest
 fett
 fiel
 fies
@@ -172,7 +171,6 @@ fort
 foto
 frag
 frau
-fraß
 frei
 freu
 froh
@@ -257,7 +255,6 @@ herb
 herd
 herr
 herz
-hexe
 hier
 hieß
 high
@@ -277,7 +274,6 @@ huhn
 hunt
 hupe
 hupt
-hure
 hält
 häng
 höhe
@@ -334,7 +330,6 @@ koma
 komm
 kopf
 korb
-kram
 krug
 kurs
 kurz
@@ -453,7 +448,6 @@ nimm
 noch
 nord
 note
-null
 nuss
 nähe
 oben
@@ -565,7 +559,6 @@ sorg
 soul
 soße
 spar
-spaß
 spot
 spur
 spät

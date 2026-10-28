@@ -26,7 +26,6 @@ amem
 ames
 amor
 amou
-anao
 anda
 ande
 ando
@@ -67,11 +66,9 @@ beco
 bela
 belo
 bens
-beta
 bife
 boas
 boca
-bola
 bolo
 bone
 bons
@@ -300,7 +297,6 @@ lima
 link
 lisa
 lixe
-lixo
 lobo
 logo
 loja
@@ -419,7 +415,6 @@ peca
 peco
 pede
 pedi
-pega
 pego
 pela
 pele
@@ -427,7 +422,6 @@ pelo
 pena
 pesa
 peso
-pico
 pila
 pior
 piso
@@ -572,7 +566,6 @@ toma
 tome
 tomo
 topo
-toto
 tras
 traz
 trem
@@ -593,7 +586,6 @@ uses
 usou
 util
 uvas
-vaca
 vaga
 vago
 vais

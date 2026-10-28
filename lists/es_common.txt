@@ -282,7 +282,6 @@ jedi
 jeep
 jefa
 jefe
-joya
 juez
 jugo
 jura
@@ -313,8 +312,6 @@ line
 lios
 lisa
 lobo
-loca
-loco
 lodo
 lola
 look
@@ -502,7 +499,6 @@ roma
 ropa
 rosa
 rota
-roto
 rudo
 rusa
 ruso
@@ -603,7 +599,6 @@ uses
 util
 uvas
 uñas
-vaca
 vago
 vais
 vale

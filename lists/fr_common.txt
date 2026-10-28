@@ -110,7 +110,6 @@ clos
 clou
 club
 coca
-coco
 code
 coin
 coke
@@ -192,7 +191,6 @@ file
 film
 fils
 fine
-fini
 fins
 fixe
 flou
@@ -234,7 +232,6 @@ gras
 gray
 grec
 gris
-gros
 hair
 hais
 hait
@@ -266,8 +263,6 @@ joie
 joli
 joue
 jour
-juge
-juif
 juin
 jupe
 jure
@@ -325,7 +320,6 @@ maux
 maya
 mecs
 mele
-meme
 mene
 mens
 ment
@@ -544,7 +538,6 @@ tape
 tara
 tard
 tare
-tata
 tate
 taux
 taxi

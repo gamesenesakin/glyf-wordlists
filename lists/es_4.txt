@@ -549,6 +549,7 @@ coma
 come
 comi
 como
+cono
 cool
 copa
 cope
@@ -851,6 +852,7 @@ femo
 feos
 fese
 feta
+feto
 fiad
 fian
 fiar
@@ -863,6 +865,7 @@ fido
 fiel
 fien
 fies
+fife
 fifi
 fija
 fije
@@ -929,6 +932,7 @@ fuis
 fuja
 fujo
 fuku
+fula
 full
 fulo
 fuma
@@ -1237,6 +1241,7 @@ jelo
 jeme
 jeta
 jets
+jeva
 jian
 jice
 jied
@@ -1368,6 +1373,7 @@ leos
 lepa
 lero
 lesa
+leso
 leva
 leve
 levo
@@ -1439,6 +1445,7 @@ loor
 lora
 lord
 lore
+loro
 losa
 lose
 loso
@@ -1496,6 +1503,7 @@ mall
 malo
 mama
 mame
+mami
 mamo
 mana
 mane
@@ -1685,6 +1693,7 @@ nabo
 naca
 nace
 naci
+naco
 nada
 nade
 nado
@@ -2277,6 +2286,7 @@ ruar
 ruas
 rubi
 ruca
+ruco
 ruda
 rudo
 rufa
@@ -2930,6 +2940,7 @@ zuñi
 ñema
 ñera
 ñeri
+ñero
 ñire
 ñiña
 ñoba

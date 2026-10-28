@@ -219,6 +219,7 @@ asem
 ases
 asma
 asna
+asno
 asou
 aspa
 assa
@@ -354,6 +355,7 @@ bobo
 boca
 boco
 boda
+bode
 bodo
 body
 boer
@@ -476,6 +478,7 @@ cena
 ceos
 ceou
 cepa
+cepo
 cera
 ceus
 ceva
@@ -738,6 +741,7 @@ eoas
 eoes
 eons
 eoos
+eque
 equo
 eram
 eras
@@ -909,12 +913,14 @@ fuzo
 gaba
 gabe
 gabo
+gado
 gafe
 gaga
 gago
 gags
 gaia
 gaio
+gaja
 gajo
 gala
 gale
@@ -960,6 +966,7 @@ geri
 gero
 ghee
 giba
+gibi
 giga
 gigo
 gins
@@ -1141,6 +1148,7 @@ jinn
 jipe
 joao
 jobs
+joca
 joga
 jogo
 joia

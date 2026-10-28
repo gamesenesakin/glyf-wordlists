@@ -669,7 +669,6 @@ dado
 dads
 daff
 daft
-dago
 dags
 dahl
 dahs
@@ -1367,7 +1366,6 @@ guvs
 guys
 gybe
 gyms
-gyps
 gyre
 gyri
 gyro
@@ -1432,7 +1430,6 @@ heal
 heap
 hear
 heat
-hebe
 heck
 heed
 heel
@@ -3161,7 +3158,6 @@ spar
 spas
 spat
 spay
-spaz
 spec
 sped
 spew
@@ -3734,7 +3730,6 @@ wits
 wive
 woad
 woes
-wogs
 woke
 woks
 wold
@@ -3804,7 +3799,6 @@ yeti
 yett
 yeuk
 yews
-yids
 yill
 yins
 yipe

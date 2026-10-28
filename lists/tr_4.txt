@@ -903,7 +903,6 @@ ibda
 ibik
 ibis
 ibiş
-ibne
 ibra
 ibre
 icap
@@ -1523,7 +1522,6 @@ punç
 pupa
 puro
 pusu
-puşt
 püre
 pışt
 raca
